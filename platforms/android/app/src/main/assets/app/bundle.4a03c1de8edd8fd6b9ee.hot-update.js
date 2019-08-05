@@ -1,0 +1,11 @@
+webpackHotUpdate("bundle",{
+
+/***/ "./login/login.component.html":
+/***/ (function(module, exports) {
+
+module.exports = "<ActionBar title=\"Groceries\"></ActionBar>\r\n\r\n<FlexboxLayout>\r\n  <StackLayout class=\"form\">\r\n    <Image src=\"~/images/logo.png\"></Image>\r\n\r\n    <TextField hint=\"Email Address\" keyboardType=\"email\"\r\n      autocorrect=\"false\" autocapitalizationType=\"none\"\r\n      class=\"input input-border\"></TextField>\r\n    <TextField hint=\"Password\" secure=\"true\"\r\n      class=\"input input-border\"></TextField>\r\n\r\n      <Button text=\"Sign in\" class=\"btn btn-primary\" (tap)=\"submit()\"></Button>\r\n    <Button text=\"Sign up for Groceries\"></Button>\r\n  </StackLayout>\r\n</FlexboxLayout>"
+
+/***/ })
+
+})
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9sb2dpbi9sb2dpbi5jb21wb25lbnQuaHRtbCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7OztBQUFBLGtvQiIsImZpbGUiOiJidW5kbGUuNGEwM2MxZGU4ZWRkOGZkNmI5ZWUuaG90LXVwZGF0ZS5qcyIsInNvdXJjZXNDb250ZW50IjpbIm1vZHVsZS5leHBvcnRzID0gXCI8QWN0aW9uQmFyIHRpdGxlPVxcXCJHcm9jZXJpZXNcXFwiPjwvQWN0aW9uQmFyPlxcclxcblxcclxcbjxGbGV4Ym94TGF5b3V0PlxcclxcbiAgPFN0YWNrTGF5b3V0IGNsYXNzPVxcXCJmb3JtXFxcIj5cXHJcXG4gICAgPEltYWdlIHNyYz1cXFwifi9pbWFnZXMvbG9nby5wbmdcXFwiPjwvSW1hZ2U+XFxyXFxuXFxyXFxuICAgIDxUZXh0RmllbGQgaGludD1cXFwiRW1haWwgQWRkcmVzc1xcXCIga2V5Ym9hcmRUeXBlPVxcXCJlbWFpbFxcXCJcXHJcXG4gICAgICBhdXRvY29ycmVjdD1cXFwiZmFsc2VcXFwiIGF1dG9jYXBpdGFsaXphdGlvblR5cGU9XFxcIm5vbmVcXFwiXFxyXFxuICAgICAgY2xhc3M9XFxcImlucHV0IGlucHV0LWJvcmRlclxcXCI+PC9UZXh0RmllbGQ+XFxyXFxuICAgIDxUZXh0RmllbGQgaGludD1cXFwiUGFzc3dvcmRcXFwiIHNlY3VyZT1cXFwidHJ1ZVxcXCJcXHJcXG4gICAgICBjbGFzcz1cXFwiaW5wdXQgaW5wdXQtYm9yZGVyXFxcIj48L1RleHRGaWVsZD5cXHJcXG5cXHJcXG4gICAgICA8QnV0dG9uIHRleHQ9XFxcIlNpZ24gaW5cXFwiIGNsYXNzPVxcXCJidG4gYnRuLXByaW1hcnlcXFwiICh0YXApPVxcXCJzdWJtaXQoKVxcXCI+PC9CdXR0b24+XFxyXFxuICAgIDxCdXR0b24gdGV4dD1cXFwiU2lnbiB1cCBmb3IgR3JvY2VyaWVzXFxcIj48L0J1dHRvbj5cXHJcXG4gIDwvU3RhY2tMYXlvdXQ+XFxyXFxuPC9GbGV4Ym94TGF5b3V0PlwiIl0sInNvdXJjZVJvb3QiOiIifQ==
